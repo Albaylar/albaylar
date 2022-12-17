@@ -1,4 +1,4 @@
-### Hi I am Furkan Deniz Albaylar 👋
+### Hi I'm Furkan Deniz Albaylar 👋
 
 
 ![Github stats 1](https://github-readme-stats.vercel.app/api?username=albaylar&show_icons=true&theme=gradient) 
