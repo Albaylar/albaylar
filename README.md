@@ -6,9 +6,9 @@
 ### Connect with me:
 
 
-&nbsp;&nbsp;
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/furkandenizalbaylar/#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/furkandenizalbaylar/#gh-dark-mode-only)
+&nbsp;&nbsp;
 
 
 ## About my focus :
