@@ -3,6 +3,15 @@
 
 ![Github stats 1](https://github-readme-stats.vercel.app/api?username=albaylar&show_icons=true&theme=gradient) 
 
+### Connect with me:
+
+
+&nbsp;&nbsp;
+[![website](./img/twitter-light.svg)](https://twitter.com/AlbaylarFurkan#gh-light-mode-only)
+[![website](./img/twitter-dark.svg)](https://twitter.com/AlbaylarFurkan#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/furkandenizalbaylar/#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/furkandenizalbaylar/#gh-dark-mode-only)
 
 
 ## About my focus :
