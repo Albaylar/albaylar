@@ -11,8 +11,8 @@
 
 ## About my focus :
 
-- 🔭 I’m currently working on Simpra IOS Swift Bootcamp.
-- 🌱 I’m currently learning on Swift and SwiftUI.
+- 🔭 I’m currently working on MiningTower project.
+- 🌱 I’m currently developing myself about programming Swift and SwiftUI.
 - 💬 Ask me about SwiftUI.
 - 📫 How to reach me: furkandenizalbaylar@gmail.com
 
