@@ -1,8 +1,6 @@
 ### Hi I'm Furkan Deniz Albaylar 👋
 
 
-![Github stats 1](https://github-readme-stats.vercel.app/api?username=albaylar&show_icons=true&theme=gradient) 
-
 🔗 &nbsp;**Connect with me**
 <p align="left">
 
