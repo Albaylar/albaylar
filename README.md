@@ -63,10 +63,10 @@
 
 | Project | Description | Tech | Link |
 |---------|-------------|------|------|
-| **SpeachyAI** | AI chat app with customizable personas · 1,000+ downloads | SwiftUI · OpenAI/Gemini · StoreKit 2 · Firestore | [App Store](https://apps.apple.com/) |
-| **ChargeEV** | EV charging station finder with real-time availability | SwiftUI · MapKit · CoreLocation · CoreData | [Repo](https://github.com/Albaylar/ChargeStationMap) |
+| **SpeachyAI** | AI chat app with customizable personas · 1,000+ downloads | SwiftUI · OpenAI/Gemini · StoreKit 2 · Firestore | [App Store](https://apps.apple.com/us/app/speachyai/id6742565399) |
+| **ChargeEV** | EV charging station finder with real-time availability | SwiftUI · MapKit · CoreLocation · CoreData | [App Store](https://apps.apple.com/us/app/chargeev/id6505103671) |
 | **MathSolver** | Photo-to-solution math solver with OCR + LLM | Vision · OpenAI · MathJax · CoreData | [Repo](https://github.com/Albaylar/MathSolverApp) |
-| **Mining Town** | Published iOS game with custom physics | SpriteKit · StoreKit 2 · Game Center · AdMob | App Store |
+| **Mining Town** | Published iOS game with custom physics | SpriteKit · StoreKit 2 · Game Center · AdMob | [App Store](https://apps.apple.com/us/app/mining-town-idle-gold-tycoon/id6760492654) |
 | **LeadGenPro** | Multi-agent B2B lead-gen pipeline | Claude API · FastAPI · SQLite | Side project |
 
 ---
