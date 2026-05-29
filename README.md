@@ -73,17 +73,33 @@
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Albaylar&show_icons=true&hide_border=true&count_private=true&theme=tokyonight" alt="GitHub Stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Albaylar&layout=compact&hide_border=true&theme=tokyonight" alt="Top Languages"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Albaylar&hide_border=true&theme=tokyonight" alt="GitHub Streak"/>
-</p>
+<table align="center" border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td valign="top" align="center" style="padding: 5px;">
+      <img height="180" src="https://github-readme-stats.vercel.app/api?username=Albaylar&show_icons=true&hide_border=true&count_private=true&theme=tokyonight" alt="GitHub Stats"/>
+    </td>
+    <td valign="top" align="center" style="padding: 5px;">
+      <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Albaylar&layout=compact&hide_border=true&theme=tokyonight" alt="Top Languages"/>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center" style="padding-top: 10px;">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Albaylar&hide_border=true&theme=tokyonight" alt="GitHub Streak"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
 <p align="center">
-  <i>📫 Reach me at <a href="mailto:furkandenizalbaylar@gmail.com">furkandenizalbaylar@gmail.com</a> — open to iOS / Mobile + AI roles in Berlin & Germany.</i>
+  <a href="mailto:furkandenizalbaylar@gmail.com">
+    <img src="https://img.shields.io/badge/Email-furkandenizalbaylar%40gmail.com-blue?style=for-the-badge&logo=gmail&logoColor=white&color=ff69b4" alt="Email"/>
+  </a>
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white&color=0077B5" alt="LinkedIn"/>
+  </a>
+</p>
+
+<p align="center">
+  <i>📍 Open to iOS / Mobile + AI developer roles in Berlin & Germany.</i>
 </p>
