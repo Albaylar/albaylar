@@ -76,10 +76,10 @@
 <table align="center" border="0" cellpadding="0" cellspacing="0">
   <tr>
     <td valign="top" align="center" style="padding: 5px;">
-      <img height="180" src="https://github-readme-stats.vercel.app/api?username=Albaylar&show_icons=true&hide_border=true&count_private=true&theme=tokyonight" alt="GitHub Stats"/>
+      <img height="180" src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=Albaylar&show_icons=true&hide_border=true&count_private=true&theme=tokyonight" alt="GitHub Stats"/>
     </td>
     <td valign="top" align="center" style="padding: 5px;">
-      <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Albaylar&layout=compact&hide_border=true&theme=tokyonight" alt="Top Languages"/>
+      <img height="180" src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=Albaylar&layout=compact&hide_border=true&theme=tokyonight" alt="Top Languages"/>
     </td>
   </tr>
   <tr>
@@ -95,7 +95,7 @@
   <a href="mailto:furkandenizalbaylar@gmail.com">
     <img src="https://img.shields.io/badge/Email-furkandenizalbaylar%40gmail.com-blue?style=for-the-badge&logo=gmail&logoColor=white&color=ff69b4" alt="Email"/>
   </a>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME">
+  <a href="https://www.linkedin.com/in/furkandenizalbaylar/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white&color=0077B5" alt="LinkedIn"/>
   </a>
 </p>
