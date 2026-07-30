@@ -21,7 +21,7 @@
 
 - 🍏 **iOS engineer** who owns the full mobile lifecycle: architecture, API integration, persistence, payments, App Store review, and shipping.
 - 🤖 I integrate **practical AI features** into real products — vision & LLM APIs (OpenAI, Gemini, Claude), secure proxy backends, prompt engineering, and consent-first UX.
-- 📱 **3 apps live on the App Store**, including **SpeachyAI** (1,000+ downloads). Currently shipping **ScanDent** — an AI dental scanner with Apple Watch companion.
+- 📱 **4 apps live on the App Store**, including **SpeachyAI** (1,000+ downloads).
 - 🏦 Previously contributed to a **mobile banking app at TurkishBank** within a 20-person cross-functional team across 30+ sprint cycles, helping drive the crash rate to near-zero.
 - 🌍 Based in **Berlin** — open to roles in Germany (hybrid or remote). Working language: English.
 - 💬 Ask me about **SwiftUI, StoreKit 2, Adapty, watchOS companions, or shipping LLM/vision features into mobile apps**.
