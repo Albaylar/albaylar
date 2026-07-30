@@ -1,8 +1,3 @@
-# GitHub Profile README (Albaylar/Albaylar)
-Paste this into your special profile repository:  
-`https://github.com/Albaylar/Albaylar` → file must be named `README.md` on `main`.
-After ScanDent is **Approved**, change the ScanDent row Link from Marketing/“In review” to the real App Store URL and bump “3 apps live” → “4 apps live”.
----
 <h1 align="center">Hi, I'm Furkan Deniz Albaylar 👋</h1>
 <h3 align="center">iOS Engineer · AI-Integrated Mobile Applications · Berlin 🇩🇪</h3>
 <p align="center">
