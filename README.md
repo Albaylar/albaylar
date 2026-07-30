@@ -4,7 +4,7 @@
 
 <p align="center">
   I ship real mobile products and build practical AI features into them.<br/>
-  4 apps live on the App Store · shipping <strong>ScanDent</strong> · LLM integration (OpenAI, Gemini, Claude) · SwiftUI · StoreKit 2
+  4 apps live on the App Store· LLM integration (OpenAI, Gemini, Claude) · SwiftUI · StoreKit 2
 </p>
 
 <p align="center">
